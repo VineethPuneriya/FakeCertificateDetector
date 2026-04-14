@@ -1,0 +1,10 @@
+Flask>=2.3.2
+Werkzeug>=2.3.6
+opencv-python>=4.8.0
+pyzbar>=0.1.9
+PyMuPDF>=1.23.0
+easyocr>=1.7.0
+thefuzz>=0.20.0
+SQLAlchemy>=2.0.19
+cryptography>=41.0.3
+requests>=2.31.0
