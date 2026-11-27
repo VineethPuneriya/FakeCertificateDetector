@@ -1,4 +1,4 @@
-# 🛡️ Fake Certificate Detector
+# 🛡️ CertShield - Fake Certificate Detector
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black)
